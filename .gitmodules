@@ -1,0 +1,3 @@
+[submodule "icedrift"]
+	path = icedrift
+	url = git@github.com:danielmwatkins/icedrift.git
